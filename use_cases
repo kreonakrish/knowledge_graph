@@ -1,0 +1,15 @@
+### Summary of Neo4j Use Cases in Financial Services (Tabular Format)**
+
+| **Use Case**                                  | **Problem Statement**                                                                 | **Business Impact**                                              |
+|----------------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| **XLOB Customer Segmentation & Personalization** | Customer data is siloed across LOBs, leading to missed cross-sell and up-sell opportunities. | Unified customer insights enable **better personalization** and **higher revenue**. |
+| **LLM/GENAI-Powered Data Retrieval**        | AI models struggle with unstructured financial data, impacting accuracy.           | Faster, **context-aware AI-driven financial insights** for chatbots and decision-makers. |
+| **Detect Suspicious Transactions (Graph + API)** | Fraudsters use multi-account schemes that evade rule-based detection.               | **Real-time fraud detection** by analyzing transaction networks dynamically. |
+| **Find Transactions for a Customer (Graph + SQL)** | Transaction data is spread across multiple databases, making retrieval slow.        | **Reduces storage overhead** while providing **real-time transaction visibility**. |
+| **GL Reconciliation**                        | Manual reconciliation between sub-ledgers and the general ledger is time-consuming. | **Automated ledger reconciliation**, improving accuracy and **reducing audit time**. |
+| **Risk Reporting & Compliance (Basel III, BCBS 239, CCAR)** | Regulatory reporting is delayed due to fragmented financial data.                   | **Ensures real-time compliance** by tracking financial risks across entities. |
+| **Ensure Real-Time Regulatory Compliance**   | Financial audits require a complete **audit trail** for all transactions.          | **Prevents compliance violations** and automates **audit readiness**. |
+| **Detect Financial Anomalies & Fraud Early** | Traditional fraud detection misses sophisticated fraud rings.                       | **Identifies hidden fraud patterns** using **graph-based anomaly detection**. |
+| **Optimize Risk Forecasting & Financial Planning** | Financial forecasting lacks real-time risk assessment across accounts.              | **Enhances risk-adjusted planning** for capital allocation and loan portfolios. |
+| **Customer 360 (Unified Customer View)**     | Customer financial relationships are fragmented across products (cards, loans, etc.). | **Improves CX through personalized recommendations** and customer insights. |
+| **Marketing & Finance Decision Optimization (Cross-Selling & Up-Selling)** | Customer segmentation lacks behavioral insights, reducing campaign effectiveness.   | **Higher marketing ROI** through **AI-driven targeted offers**. |
